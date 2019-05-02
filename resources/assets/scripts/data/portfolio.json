@@ -1,0 +1,37 @@
+[
+	{
+		"title" : "Merge Buck",
+		"url" : "https://mergebuck.com/",
+		"date" : "2018-06",
+		"task" : "Full-Stack development",
+		"thumbnail" : "/images/portfolio/merge_buck.jpg"
+	},
+	{
+		"title" : "ROAG",
+		"url" : "https://new.roag.org/",
+		"date" : "2019-02",
+		"task" : "Back-end development",
+		"thumbnail" : "/images/portfolio/roag.jpg"
+	},
+	{
+		"title" : "Merge•Africa",
+		"url" : "https://merge.africa/",
+		"date" : "2019-02",
+		"task" : "Back-end Development",
+		"thumbnail" : "/images/portfolio/merge_africa.jpg"
+	},
+	{
+		"title" : "Silicon-Durbs",
+		"url" : "http://silicondurbs.me/",
+		"date" : "2019-04",
+		"task" : "Full-stack Development",
+		"thumbnail" : "/images/portfolio/silicon_durbs.jpg"
+	},
+	{
+		"title" : "Blogist",
+		"url" : "http://github.com/NtsikaMngoma/BlogPackage.git/",
+		"date" : "2019-04",
+		"task" : "PHP Composer Plugin",
+		"thumbnail" : "/images/portfolio/blogist.jpg"
+	}
+]
